@@ -308,6 +308,11 @@
     {%- endif -%}
 
     {% sections 'header-group' %}
+
+    {% raw %}
+{{ 2 | plus: 2 }} equals 4.
+{% endraw %}
+
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
     </main>
