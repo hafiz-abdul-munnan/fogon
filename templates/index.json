@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Browse our latest products. This is a customizer",
+            "heading": "Browse our latest products. This is a customizer. This text is write on theme code.",
             "heading_size": "h0"
           }
         },
